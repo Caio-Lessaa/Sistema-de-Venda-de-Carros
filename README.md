@@ -15,7 +15,7 @@ Este é um sistema em Java para gerenciar a venda de carros próprios e consigna
 
 ## Como Usar
 1. Clone este repositório:  
-   `git clone https://github.com/SEU_USUARIO/SistemaDeVendaDeCarros.git`
+   `git clone https://github.com/Caio_Lessaa/SistemaDeVendaDeCarros.git`
 2. Compile e execute o programa usando um IDE Java ou via terminal:
    - `javac Main.java`
    - `java Main`
